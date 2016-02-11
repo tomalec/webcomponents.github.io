@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[WebComponents.org]]></title>
+        <description><![CDATA[A place to discuss and evolve Web Component best-practices]]></description>
+        <link>http://webcomponents.org</link>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Thu, 11 Feb 2016 22:17:49 GMT</lastBuildDate>
+        <atom:link href="http://webcomponents.org/articles.xml" rel="self" type="application/rss+xml"/>
+        <pubDate>Thu, 11 Feb 2016 22:15:55 GMT</pubDate>
+        <item>
+            <title><![CDATA[Web Components in production use – are we there yet?]]></title>
+            <description><![CDATA[<p>A lot of progress has been made since the introduction of the Web Components back in 2011. All major browsers have started implementation of the technologies needed to run web components natively. While browser vendors are still working on native implementations, libraries have been able to use a polyfill to make web components available to developers already.</p>
+<p>But what is the status of Web Components for actual production use in business applications?</p>
+<!-- Excerpt -->]]></description>
+            <link>http://webcomponents.org/articles/web-components-in-production-use-are-we-there-yet</link>
+            <guid isPermaLink="true">http://webcomponents.org/articles/web-components-in-production-use-are-we-there-yet</guid>
+            <pubDate>Tue, 26 Jan 2016 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Polymer Testing Tips]]></title>
+            <description><![CDATA[<p>This article goes through some of the more advanced topics such as user interaction simulation, automatic testing with Continuous Integration, testing on multiple OS/browsers, and more useful tips.</p>
+<!-- Excerpt -->]]></description>
+            <link>http://webcomponents.org/articles/polymer-testing-tips</link>
+            <guid isPermaLink="true">http://webcomponents.org/articles/polymer-testing-tips</guid>
+            <pubDate>Tue, 05 Jan 2016 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Sane usage of Custom Elements]]></title>
+            <description><![CDATA[<p>Web Components have been an controversial subject that surfaced the Front end world over the last years that I&#39;m still pretty skeptical about its usage on existing and greenfield projects due the lack of good examples on how they can be rolled out to production, but there is sure a way to get started with them without buying in all the hype.</p>
+<!-- Excerpt -->]]></description>
+            <link>http://webcomponents.org/articles/sane-usage-of-custom-elements</link>
+            <guid isPermaLink="true">http://webcomponents.org/articles/sane-usage-of-custom-elements</guid>
+            <pubDate>Fri, 25 Sep 2015 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[There is an Element for That]]></title>
+            <description><![CDATA[<p>Sebastian attended to the first ever Polymer Summit in Amsterdam recently. This was his first Polymer conference obviously but this was also his first conference &amp; trip to Amsterdam. As an AngularJS developer he was very curious about the Polymer Project and the ambitious ideas behind it. Here is what he had to say.
+<!-- Excerpt --></p>
+]]></description>
+            <link>http://webcomponents.org/articles/there-is-an-element-for-that</link>
+            <guid isPermaLink="true">http://webcomponents.org/articles/there-is-an-element-for-that</guid>
+            <pubDate>Sat, 19 Sep 2015 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Write Web Components with ES2015 (ES6)]]></title>
+            <description><![CDATA[This article is the second in a series of tutorials dealing with creation and best practices involved in designing Vanilla Web Component systems.
+<!-- Excerpt -->]]></description>
+            <link>http://webcomponents.org/articles/write-web-components-with-es2015</link>
+            <guid isPermaLink="true">http://webcomponents.org/articles/write-web-components-with-es2015</guid>
+            <pubDate>Tue, 15 Sep 2015 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Quick Trick: Using Template to Delay Loading of Images]]></title>
+            <description><![CDATA[<p>When it comes to newer elements to play with there are a few that are slightly odd. Canvas is one of them, as it doesn’t do anything without scripting. It is a placeholder for a canvas painting or animation and can contain fallback content when it is not supported. Template is another such element that needs to be addressed in this way.</p>
+<!-- Excerpt -->]]></description>
+            <link>http://webcomponents.org/articles/quick-trick-using-template-to-delay-loading-of-images</link>
+            <guid isPermaLink="true">http://webcomponents.org/articles/quick-trick-using-template-to-delay-loading-of-images</guid>
+            <pubDate>Tue, 08 Sep 2015 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What happened to Web Components?]]></title>
+            <description><![CDATA[<p>Three years ago, there was a lot of excitement surrounding Web Components: everybody talked about them, the frameworks Ember and Angular planned to integrate them or even be based on them, etc.</p>
+<p>By now, that excitement seems to have died down. This blog post examines what happened to Web Components. Spoiler: they are alive and well and slowly being adopted across browsers.</p>
+<!-- Excerpt -->]]></description>
+            <link>http://webcomponents.org/articles/what-happened-to-web-components</link>
+            <guid isPermaLink="true">http://webcomponents.org/articles/what-happened-to-web-components</guid>
+            <pubDate>Mon, 31 Aug 2015 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Taming Polymer with SystemJS and TypeScript, part 1]]></title>
+            <description><![CDATA[<p>Web Components are awesome for building web apps out of interoperable widgets. They’re made out of 4 technologies which
+Polymer 1.0 brings to all major web browsers using polyfills. However one of them, HTML Imports, is so problematic that
+Mozilla refuses to implement it natively. Let’s work around it using SystemJS and discover a whole new and (in my opinion)
+nicer way of working with Polymer!</p>
+<!-- Excerpt -->]]></description>
+            <link>http://webcomponents.org/articles/taming-polymer-with-systemjs-and-typescript-part-1</link>
+            <guid isPermaLink="true">http://webcomponents.org/articles/taming-polymer-with-systemjs-and-typescript-part-1</guid>
+            <pubDate>Thu, 27 Aug 2015 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Polymer Unit Testing]]></title>
+            <description><![CDATA[<p>In the front-end world, testing is a weird topic. Developers know how much testing is important, but lots of them don’t
+embrace this practice. This is because testing is often perceived as a time consuming and a difficult task.</p>
+<!-- Excerpt -->]]></description>
+            <link>http://webcomponents.org/articles/polymer-unit-testing</link>
+            <guid isPermaLink="true">http://webcomponents.org/articles/polymer-unit-testing</guid>
+            <pubDate>Fri, 14 Aug 2015 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Build A Real-Time Polymer To-Do App]]></title>
+            <description><![CDATA[<p>Building a realtime collaborative to-do application, where task status is synced in realtime across all connected devices as their state is changed can be a difficult thing to manage. Using Polymer an PubNub to build a collaborative application enables users to receive updates between connected devices, and to sync state.</p>
+<!-- Excerpt -->]]></description>
+            <link>http://webcomponents.org/articles/build-a-real-time-polymer-to-do-app</link>
+            <guid isPermaLink="true">http://webcomponents.org/articles/build-a-real-time-polymer-to-do-app</guid>
+            <pubDate>Thu, 06 Aug 2015 00:00:00 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
